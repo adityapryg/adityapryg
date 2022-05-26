@@ -3,7 +3,7 @@
 - 🔭 currently working on PT Brainmatics Indonesia Cendekia
 - 🌱 a college student in Universitas Indraprasta PGRI (Teknik Informatika)
 - 🛠 current Programming language is PHP (Laravel) and JS
-- 📫 How to reach me: [adityaprayoga.software](https://adityaprayoga.software)
+- 📫 How to reach me: [adityaprayoga.software](http://adityaprayoga.software)
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
